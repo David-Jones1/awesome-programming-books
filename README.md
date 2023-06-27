@@ -6,7 +6,7 @@
 
 HTML数据资源爬取自 https://weread.qq.com/  ，持续更新中。。。 
 
-项目地址： https://github.com/ccssu/awesome-programming-books 欢迎关注最新动态。
+项目地址： https://github.com/ccssu/awesome-programming-books  数据爬取不易，欢迎收藏关注最新动态。
 
 -------
 
