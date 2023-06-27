@@ -27,7 +27,7 @@ awesome-programming-books 包含以下类型的书籍:
 - Python:《[Python编程:从入门到实践](https://awesome-programming-books.github.io/python/Python%E7%BC%96%E7%A8%8B%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)》、《[流畅的Python](https://www.aliyundrive.com/s/7s9VTwWGkfe)》 《[Python编程：从入门到实践（第2版）](https://www.aliyundrive.com/s/XLzSgmvtWPy)》等。
 - 算法和数据结构:《我的第一本算法书》、《数据结构与算法分析》等。
 
--------
+
 
 ### 食用指南 
 
