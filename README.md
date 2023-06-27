@@ -4,7 +4,9 @@
 
 计算机领域经典书籍的开源项目，供各位同学免费使用，永不收费！
 
-HTML数据资源爬取自 https://weread.qq.com/  ，持续更新中。。。
+HTML数据资源爬取自 https://weread.qq.com/  ，持续更新中。。。 
+
+项目地址： https://github.com/ccssu/awesome-programming-books 欢迎关注最新动态。
 
 ## 项目
 
