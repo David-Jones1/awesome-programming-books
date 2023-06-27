@@ -4,6 +4,8 @@
 
 计算机领域经典书籍的开源项目，供各位同学免费使用，永不收费！
 
+HTML数据资源爬取自 https://weread.qq.com/  ，持续更新中。。。
+
 ## 项目
 
 全部书籍链接： <https://www.aliyundrive.com/s/e5LbmXYzuzR>
