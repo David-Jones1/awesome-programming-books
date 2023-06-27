@@ -1,4 +1,4 @@
-- https://awesome-programming-books.github.io/
+
 
 
 入门级别：
@@ -10,7 +10,7 @@
 这本书是一本全面介绍Python语言和编程概念的经典教材，适合初学者系统地学习Python。
 
 进阶级别：
-3. "流畅的Python"（"Fluent Python"）by Luciano Ramalho
+1. "流畅的Python"（"Fluent Python"）by Luciano Ramalho
 这本书适合有一定Python编程经验的读者，深入探讨Python的高级特性和最佳实践，让您能够编写更具表现力和可维护性的Python代码。
 
 "Python核心编程"（"Python Core Programming"）by Wesley J. Chun

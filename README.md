@@ -1,6 +1,16 @@
 # awesome-programming-books
 
+## 引言
+
+计算机领域经典书籍的开源项目，供各位同学免费使用，永不收费！
+
+## 项目
+
 全部书籍链接： <https://www.aliyundrive.com/s/e5LbmXYzuzR>
+
+书集数据来源: 1. 利用Scrapy 爬取 2.其他人整理的书籍
+
+信息时代，网络上充斥着各种资源。给同学们带来选择的同时，也带来了很多干扰。本项目主要介绍优质的计算机领域书籍，帮助同学们快速入门，提高学习效率
 
 awesome-programming-books 包含以下类型的书籍:
 
@@ -12,8 +22,17 @@ awesome-programming-books 包含以下类型的书籍:
 
 
 
-https://weread.qq.com/web/reader/e72323d071845588e729af0 
-https://weread.qq.com/web/reader/9143210071c95624914946bkc9f326d018c9f0f895fb5e4
+## 淘金区
 
-
-
+- 《[计算机经典电子书与学习资源分享](https://gitee.com/grindgold/pdf)》
+-  《[小林 x 图解计算机基础-小林coding](https://xiaolincoding.com/) 》
+- 《[编程词典-计算机编程领域专业术语大全](http://dict.code-nav.cn/)》
+- 《[超过1000本的计算机经典书籍分享](https://gitee.com/ForthEspada/CS-Books)》 
+-  《[CS-Books（GitHub版本）：](https://github.com/forthespada/CS-Books)》
+- 《[阿秀的学习笔记](https://interviewguide.cn/)》
+-  《[开源计算机科学课程地址 The Missing Semester of Your CS Education：](https://missing-semester-cn.github.io/)》
+-  《[在线计算机技术术语词典地址](https://techterms.com/) 》
+-  《[顶级IT工程师的计算机思维课 阿里云盘：](https://www.aliyundrive.com/s/N6QQDj7sgxF)》
+-  《[GeeksforGeeks：极客计算机科学 适合程序员自我充电的网站](https://www.geeksforgeeks.org/)》
+-  《[🎉 优质计算机书籍分享](https://github.com/cunyu1943/ebooks)》
+- 《[综合型 资源网站 ahhhhfs](https://www.ahhhhfs.com/)》
