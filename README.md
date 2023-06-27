@@ -40,3 +40,17 @@ awesome-programming-books 包含以下类型的书籍:
 -  《[GeeksforGeeks：极客计算机科学 适合程序员自我充电的网站](https://www.geeksforgeeks.org/)》
 -  《[🎉 优质计算机书籍分享](https://github.com/cunyu1943/ebooks)》
 - 《[综合型 资源网站 ahhhhfs](https://www.ahhhhfs.com/)》
+
+-------
+
+
+
+
+#### 免责声明
+
+本仓库书籍链接全部来源于网络其他人的整理的链接，个人只是搜录整理他人成果。
+
+如有疑问请提交**issue**，有**违规侵权**，请联系本人 **ccsuwen@gmail.com** ，本人立马删除相应链接，感谢！
+
+本仓库仅作学习交流分享使用，不作任何商用。
+
