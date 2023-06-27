@@ -15,7 +15,7 @@ HTML数据资源爬取自 https://weread.qq.com/  ，持续更新中。。。
 书集数据来源: 1. 利用Scrapy 爬取 2.其他人整理的书籍
 
 信息时代，网络上充斥着各种资源。给同学们带来选择的同时，也带来了很多干扰。本项目主要介绍优质的计算机领域书籍，帮助同学们快速入门，提高学习效率
-
+### 推荐书籍
 awesome-programming-books 包含以下类型的书籍:
 
 - 计算机基础: 《[计算机程序的构造和解释](https://awesome-programming-books.github.io/computer-system/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E8%A7%A3%E9%87%8A%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)》、《[深入理解计算机系统](https://awesome-programming-books.github.io/computer-system/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F.pdf)》等。
@@ -24,6 +24,12 @@ awesome-programming-books 包含以下类型的书籍:
 - Python:《[Python编程:从入门到实践](https://awesome-programming-books.github.io/python/Python%E7%BC%96%E7%A8%8B%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)》、《[流畅的Python](https://www.aliyundrive.com/s/7s9VTwWGkfe)》 《[Python编程：从入门到实践（第2版）](https://www.aliyundrive.com/s/XLzSgmvtWPy)》等。
 - 算法和数据结构:《我的第一本算法书》、《数据结构与算法分析》等。
 
+### 食用指南 
+
+点击 链接[https://www.aliyundrive.com/s/e5LbmXYzuzR](https://www.aliyundrive.com/s/e5LbmXYzuzR) 
+
+输入 python 点击搜索按钮 就可以获取你想要的书籍。
+![image](https://github.com/ccssu/awesome-programming-books/assets/109639975/12ce8d7a-dcd2-4b38-b141-f2b8d2d4927e)
 
 
 ## 淘金区
